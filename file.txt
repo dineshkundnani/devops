@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 hello sir/ma'am 
-I am DevOps
-=======
-DevOps
-hello everyone
->>>>>>> parent of 35279b3 (third commit)
