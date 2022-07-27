@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 hello sir/ma'am 
+<<<<<<< HEAD
 hello everone
+=======
+I am DevOps
+=======
+DevOps
+hello everyone
+>>>>>>> parent of 35279b3 (third commit)
+>>>>>>> parent of 93feaf9 (Hello sir/ma'am)
